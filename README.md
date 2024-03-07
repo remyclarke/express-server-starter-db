@@ -118,10 +118,10 @@ Add functionality where if a user goes to
 
 ## Part 4
 
-### [Part 4 is a React App, see other readme for more details](./README-FE.md)
+#### [Tunr Frontend](https://github.com/10-3-pursuit/lab-tunr-frontend)
 
-- React Tunr Frontend Repo - [vite front end](https://github.com/10-3-pursuit/lab-tunr-frontend)
-- `fork` and `clone`
+- `fork` and `clone` into your project folder
+- follow the instructions in the readme
 
 ## Part 5
 
