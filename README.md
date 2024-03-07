@@ -118,9 +118,9 @@ Add functionality where if a user goes to
 
 ## Part 4
 
-#### [Tunr Frontend](https://github.com/10-3-pursuit/lab-tunr-frontend)
+#### Create a [Tunr Frontend](https://github.com/10-3-pursuit/lab-tunr-frontend) using the instructions from the readme.md
 
-- `fork` and `clone` into your project folder
+- `fork` and `clone` the [repo](https://github.com/10-3-pursuit/lab-tunr-frontend) into your project folder
 - follow the instructions in the readme
 
 ## Part 5
