@@ -32,7 +32,7 @@ By the end, your app should have the following functionality for parts 1, 2 and 
 
 While there are no unit tests, you should first determine the expected resources and behavior of your app and then use Postman to test your app.
 
-If you finish ahead of time you can try the bonus challenges in each section, or start to build a front-end with React.
+If you finish ahead of time you can try the bonus challenges in each section.
 
 If you feel like you are falling behind, reach out to an instructor.
 
