@@ -6,7 +6,9 @@ Let's make our own music playlist app!
 
 ## Get Started
 
-- `fork` and `clone` this repo
+- create a folder called `tunr-fullstack-lab`
+- `fork` this repo
+- `clone` this repo **inside** the `tunr-fullstack-lab` folder
 - `npm install`
 - create a `.env` file based on the example
 
@@ -143,3 +145,7 @@ For addtional practice keep building out the app. Learning to work with a more c
 Upgrade the app so that a playlist can have many songs and a song can belong to many playlists
 Add users so that users can have many playlists
 Add the ability for users to like songs (many songs can be liked by users, users can like many songs)
+
+## HOW TO SUBMIT
+
+Please add a link to your frontend Github repo to the top of this `README.md` underneath the title of this lab. Then copy your backend Github repo link and paste that into canvas for submission.
