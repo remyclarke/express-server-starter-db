@@ -9,6 +9,8 @@ Let's make our own music playlist app!
 - create a folder called `tunr-fullstack-lab`
 - `fork` this repo
 - `clone` this repo **inside** the `tunr-fullstack-lab` folder
+- you can change the name of your backend repo to `tunr-backend` if you like
+- `cd` into the repo
 - `npm install`
 - create a `.env` file based on the example
 
