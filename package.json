@@ -4,9 +4,9 @@
   "description": "Starter code for student lab",
   "main": "server.js",
   "scripts": {
+    "dev": "nodemon server.js",
     "db:init": "psql -U postgres -f db/schema.sql",
-    "db:seed": "psql -U postgres -f db/seed.sql",
-    "test": "jest --runInBand"
+    "db:seed": "psql -U postgres -f db/seed.sql"
   },
   "repository": {
     "type": "git",
