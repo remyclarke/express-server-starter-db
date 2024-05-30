@@ -1,6 +1,12 @@
-DROP DATABASE IF EXISTS myDB -- change name of db
-CREATE DATABASE myDB -- change name of db
+-- db/schema.sql
 
-\c myDB -- change name of db
+DROP TABLE IF EXISTS transactions;
 
--- Create your tables here
+CREATE TABLE transactions (
+  id SERIAL PRIMARY KEY,
+  item_name VARCHAR(255) NOT NULL,
+  amount DECIMAL(10, 2) NOT NULL,
+  date DATE NOT NULL,
+  "from" VARCHAR(255) NOT NULL,
+  category VARCHAR(255) NOT NULL
+);
