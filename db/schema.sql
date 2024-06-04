@@ -1,5 +1,3 @@
--- db/schema.sql
-
 DROP TABLE IF EXISTS transactions;
 
 CREATE TABLE transactions (
